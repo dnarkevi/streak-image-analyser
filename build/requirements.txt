@@ -1,0 +1,5 @@
+numpy==1.21.6
+matplotlib==3.5.3
+scipy==1.7.3
+pysimplegui==4.60.5
+pyinstaller==5.11.0

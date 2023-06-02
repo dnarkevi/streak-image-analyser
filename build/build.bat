@@ -1,0 +1,1 @@
+pyinstaller --windowed --version-file=file_version_info.txt --clean --icon=icon.ico --add-data="license.txt;." --name=streak-interp .\src\streak-analyser-interp-v1.2.py
