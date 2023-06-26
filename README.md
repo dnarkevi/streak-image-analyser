@@ -1,15 +1,15 @@
+[![DOI](https://zenodo.org/badge/648581242.svg)](https://zenodo.org/badge/latestdoi/648581242)
+
 <p align="center">
 <img width="250" src="./resources/home_screen_img.png"/>
 </p>
-
-
 
 # Streak camera image data analyser
 
 The creation of this program was to simplify the analysis of the images obtained from [streak camera](https://en.wikipedia.org/wiki/Streak_camera) Orca R2
 made by [Hamamatsu](https://www.hamamatsu.com/jp/en/product/photometry-systems/streak-camera.html).
 This program undergoes [CC BY 4.0](https://github.com/D1s1ntegrator/programs-public/blob/main/streak-image-analyser/LICENSE.md) license,
-which means it is open source and can be used or modified in any way you want, but you must reference the author by full name or [DOI]().
+which means it is open source and can be used or modified in any way you want, but you must reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.8081692).
 
 ## Features
 
@@ -60,3 +60,19 @@ Python 3.7 was used to create this program. External packages are listed as foll
 - v1.0 - Initial program version
 - v1.1 - Updated curve correction algorithm
 - v1.2 - Added multiwindow support
+
+## Reference
+
+If you use this program or code, please cite:
+```
+@software{domantas_narkevicius_2023_8081692,
+  author       = {Domantas Narkevičius},
+  title        = {Streak camera image data analyser},
+  month        = may,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.2},
+  doi          = {10.5281/zenodo.8081692},
+  url          = {https://doi.org/10.5281/zenodo.8081692}
+}
+```
